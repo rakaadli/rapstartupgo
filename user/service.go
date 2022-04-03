@@ -2,7 +2,9 @@ package user
 
 import (
 	"errors"
+
 	"fmt"
+
 	"golang.org/x/crypto/bcrypt"
 )
 
